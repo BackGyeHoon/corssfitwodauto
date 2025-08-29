@@ -1,0 +1,5 @@
+{
+  "name": "CrossFit WOD Platform",
+  "description": "A platform providing information on CrossFit Hero WODs and allowing users to create custom WODs with the help of Gemini AI. All content is in Korean.",
+  "requestFramePermissions": []
+}
